@@ -4,3 +4,6 @@
 <img width="1920" height="116" alt="TP27V4" src="https://github.com/user-attachments/assets/47e7cefa-3070-47bf-af54-70f9b22c32d2" />
 <img width="1920" height="511" alt="TP27V5" src="https://github.com/user-attachments/assets/41d69922-53da-48dc-9559-af1abb7a06bd" />
 <img width="1920" height="116" alt="TP27V4" src="https://github.com/user-attachments/assets/f7f22ba8-0abd-46f0-b7c4-c87ad346f513" />
+<img width="1086" height="435" alt="TP27V6" src="https://github.com/user-attachments/assets/12620a73-55ca-4200-b64e-238cb8f7f19c" />
+<img width="1079" height="268" alt="TP27V7" src="https://github.com/user-attachments/assets/899bc9c6-106a-48ee-a7b8-73b508518fc4" />
+<img width="1887" height="926" alt="TP27V8" src="https://github.com/user-attachments/assets/4827a613-8e98-4c3b-8c75-c8a35b064b42" />
