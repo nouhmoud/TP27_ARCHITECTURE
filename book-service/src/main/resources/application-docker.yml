@@ -6,3 +6,9 @@ spring:
 
 pricing:
   base-url: http://pricing-service:8082
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
